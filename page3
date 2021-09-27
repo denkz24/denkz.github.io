@@ -1,0 +1,21 @@
+<html>
+ <head>
+   <meta charset="UTF-8">
+   <meta name="description" content="This is your father website">
+  <title>Denkz</title>
+  </head>
+    <body style="background-color:DarkViolet";>
+      <h2><big>谁是你的童年动漫</big></h2>
+        <a href="D:\denkz/page2.html"><h1>page2</h1></a>
+    <a href="D:\denkz/page4.html"><h1>page4</h1></a>
+          <ol type="a">
+
+            <li><a href="https://media.wepg.online/public/images/user_4170/1596514188_040820120809480000005f28df8cbb2f2.png"  target="_blank"><big>哆啦a梦</big></a></li>
+            <li><a href="http://i1.hdslb.com/bfs/archive/7b6f8d8b89f7b1a32322d44420da75a1be77edb3.jpg"  target="_blank"><big>蜡笔小新</big></a></li>
+            <li><a href="https://pic1.xuehuaimg.com/proxy/baijia/https://f11.baidu.com/it/u=1490129392,1364000910&fm=173&app=25&f=JPEG?w=640&h=396&s=F7C0F90C4AD273FF002095DD030050B0&access=215967316"  target="_blank"><big>海贼王</big><a/></li>
+            </ol>
+
+
+
+   </body>
+</html>
