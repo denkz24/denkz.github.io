@@ -4,5 +4,4 @@
 
 Just Click
 
-    ##<a href="page2.html">page2</a>
-      ##  <a href="D:\denkz/236029003.jpg">page2</a>
+
