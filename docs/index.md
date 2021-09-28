@@ -3,7 +3,12 @@
 
 Trust me
 
-<big>Do you love IU?</big>
+###Do you love IU?
+###This is very important.
+###Please choose carefully
+
+<a href="https://denkz24.github.io/Page2/" target="_blank"><big>**YES</big></a>
+
 
 
 
