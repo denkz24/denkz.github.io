@@ -3,7 +3,7 @@
 
 Trust me
 
-<big style="color:PapayaWhip;">Do you love IU?</big>
+<big>Do you love IU?</big>
 
 
 
