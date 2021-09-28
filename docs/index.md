@@ -4,7 +4,7 @@
 Trust me
 
 
-<a href="https://denkz24.github.io/Page2/" target="_blank"><big>Page2</big></a>
+<a href="https://denkz24.github.io/Page2/"><big>Page2</big></a>
 
 
 
